@@ -1,5 +1,3 @@
-# [Diagnóstico Temprano de Neumonía Infantil](https://github.com/MRiveraV24/Proyecto_01/tree/main) 👈*Click for view*
-
 # Diagnóstico Temprano de Neumonía Infantil: Una Perspectiva Innovadora desde la Inteligencia Artificial
 
 ## Introducción
